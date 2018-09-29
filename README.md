@@ -1,10 +1,10 @@
 # Tutorials
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/COGS108/Tutorials/master)
+This repository is a set of tutorials for Hands-On Data Science and Machine Learning in order for you to prepare necessary development environment for UC San Diego course COGS118A - [Introduction to Machine Learning I](https://sites.google.com/site/ucsdfall2018cogs118a/). These tutorials presume some knowledge of the Python programming language. 
 
-This repository is a set of tutorials for Hands-On Data Science. It is used to run along with the UC San Diego course COGS108 - [Data Science in Practice](https://github.com/COGS108/Overview). These tutorials presume some knowledge of the Python programming language. 
+### Acknowledgment / Reference
 
-### Approach / Background
+This repo is a fork of original author who developed great tutorial set for UC San Diego course COGS108 - [Data Science in Practice](https://github.com/COGS108/Overview). 
 
 These tutorials are designed to be a minimal introduction to what you need to know to get working with data science - to start to be able getting and examing data, and building up to working on data-science related projects. They cover the hands-on, coding components of the material. 
 
